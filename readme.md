@@ -28,14 +28,14 @@
 
 ##作品
 ###Android
-+ [家校雲](https://play.google.com/store/apps/details?id=tw.com.yxj.campusassistant)
-+ [雲想家行動校園](https://play.google.com/store/apps/details?id=tw.com.yxj.yxjcampusplatforme)
-+ [魔法智能教室](https://play.google.com/store/apps/details?id=tw.com.yxj.smartclass)
-+ [ezRestock](https://play.google.com/store/apps/details?id=tw.com.mobilogics.EZRestock)
-+ [VZRestock](https://play.google.com/store/apps/details?id=tw.com.mobilogics.VZRestock)
-+ [MOONBOW](https://play.google.com/store/apps/details?id=tw.com.mobilogics.ledlight)
++ <del>家校雲</del> (已下架)
++ <del>雲想家行動校園</del> (已下架)
++ <del>魔法智能教室</del> (已下架)
++ <del>ezRestock</del> (已下架)
++ <del>VZRestock</del> (已下架)
++ <del>MOONBOW</del> (已下架)
 + <del>高鐵購票證明轉換器</del> (已下架)
-+ [MOPCON 2013](https://play.google.com/store/apps/details?id=org.mopcon)
++ <del>MOPCON 2013</del> (已下架)
 
 
 ###Web
