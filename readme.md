@@ -1,18 +1,19 @@
-#RESUME#
-##個人資料##
+#RESUME
+===============================
+##個人資料
 
 + **姓名:**  李院昇 Chuck  
 + **出生年月日:**  1983/08/16  
 + **聯絡電話:**  0933324658  
 + **E-Mail:**  <shen0816@gmail.com>  
 
-##專長##
+##專長
 + Android Application or I/O Control
 + Java Application
 + Linux baesd applications
 + LAMP
 
-##經歷##
+##經歷
 | 公司						| 職稱				| 任職期                   |
 | :-----------------------:	|:---------------:	|:-----------------------:|
 | 雲想家系統教育股份有限公司	| Senior Advanced Engineer | 2015/04 ~ 2016/05 |
@@ -21,12 +22,12 @@
 | 大同股份有限公司			| 駐點工程師			| 2011/02 ~ 2012/02 |
  
 
-##學歷##
+##學歷
 + 私立樹德科技大學 資訊工程系 學士
 + 私立高鳳高級工業家事職業學校 資訊科
 
-##作品##
-###Android###
+##作品
+###Android
 + [家校雲](https://play.google.com/store/apps/details?id=tw.com.yxj.campusassistant)
 + [雲想家行動校園](https://play.google.com/store/apps/details?id=tw.com.yxj.yxjcampusplatforme)
 + [魔法智能教室](https://play.google.com/store/apps/details?id=tw.com.yxj.smartclass)
@@ -37,46 +38,46 @@
 + [MOPCON 2013](https://play.google.com/store/apps/details?id=org.mopcon)
 
 
-###Web###
+###Web
 + 2011年3月 - 「樹德科技大學-電子計算機中心」維修管理系統 (內部系統無對外)
 + 2010年6月 - <del>「樹德科技大學-稽核室」單位網站 </del> (該室已更版)
 
-###其它###
+###其它
 + J2ME to Android APK Tool  
 + Adobe AIR - 數位邏輯教材
 + Adobe AIR - 英文主教材
 + Adobe AIR - 自然發英
 
-##技能熟練度##
-###語言類###
+##技能熟練度
+###語言類
 | 技能名稱			| 熟練度 (最高5顆星)	|
 | :---------------:	|-----------------:	|
-| Java				| ★★★☆☆				|
-| Android			| ★★★☆☆				|
-| C					| ★★☆☆☆				|
-| PHP				| ★★☆☆☆				|
-| JavaScript		| ★★☆☆☆				|
+| Java				| ★★★★☆				|
+| Android			| ★★★★☆				|
+| C					| ★★★☆☆				|
+| PHP				| ★★★☆☆				|
+| JavaScript		| ★★★☆☆				|
 | CSS				| ★☆☆☆☆				|
-| ActionScript 3.0 	| ★★☆☆☆				|
+| ActionScript 3.0 	| ★★★☆☆				|
 
-###系統類###
+###系統類
 | 技能名稱			| 熟練度 (最高5顆星)	|
 | :---------------:	|-----------------:	|
-| Windows 10		| ☆☆☆☆☆				|
+| Windows 10		| ★★★☆☆				|
 | Mac OS X			| ★★★☆☆				|
 | Linux				| ★★☆☆☆				|
 
-###其它###
+###其它
 | 技能名稱			| 熟練度 (最高5顆星)	|
 | :---------------:	|-----------------:	|
 | VIM				| ★★★☆☆				|
-| Android			| ★★★☆☆				|
+| Android	Studio		| ★★★★☆				|
 | Eclipse			| ★★★☆☆				|
 | Flash				| ★☆☆☆☆				|
 | Photoshop			| ★★☆☆☆				|
 | Lightroom			| ★★☆☆☆				|
 
-##自傳##
+##自傳
 + 2002年 - 畢業於高鳳工家資訊系，同年加入皇諭電腦開發網咖管理程式(使用VB6.0)，因公司遲遲不發薪水而離開。
 
 + 2003年 - 入伍國軍，為期1年8個月。
